@@ -1,0 +1,4 @@
+{"message":"This is a log message in the file","level":"info"}
+{"message":"Information message","level":"info"}
+{"message":"Warning message","level":"warn"}
+{"message":"This is in sucess success","level":"info"}
